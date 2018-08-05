@@ -1,0 +1,2 @@
+# potbot
+bot dlya druzey
